@@ -1,0 +1,7 @@
+Eu começaria ligando um dos interruptores por um tempo e, em seguida, 
+visitaria uma das salas para verificar qual lâmpada está quente. 
+No pior dos cenários, eu poderia visitar apenas mais uma das duas salas restantes. 
+Após essa verificação, desligaria o primeiro interruptor, ligaria o segundo e esperaria mais um tempo.
+Em seguida, visitaria as outras duas salas restantes e verificaria novamente qual lâmpada estava quente.
+Assim, eu descobriria qual lâmpada corresponde ao segundo interruptor e, por eliminação, 
+saberia qual lâmpada está ligada ao terceiro interruptor.
